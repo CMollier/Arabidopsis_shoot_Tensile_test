@@ -1,7 +1,7 @@
 matplotlib.pyplot
 numpy 
 csv
-scipy.stats as sst
+scipy.stats
 string
 datetime
 openpyxl
