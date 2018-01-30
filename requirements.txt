@@ -1,6 +1,5 @@
 matplotlib
 numpy
-csv
 scipy.stats
 string
 datetime
